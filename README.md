@@ -1,1 +1,1 @@
-# goit-murkap-hw-02
+# GOIT HTML Home work 02

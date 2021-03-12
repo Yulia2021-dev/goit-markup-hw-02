@@ -1,1 +1,2 @@
-# GOIT HTML Home work 02
+# goit-markup-hw-01
+My first home task in GOIT
